@@ -1,0 +1,89 @@
+Xsession: X session started for kalihome1 at Wed Dec  7 07:30:13 AM EST 2022
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/kalihome1/.Xauthority
+localuser:kalihome1 being added to access control list
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting USER=kalihome1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting HOME=/home/kalihome1
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=kalihome1
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/kalihome1/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/kalihome1
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/kalihome1
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session-Message: 07:30:14.232: SSH authentication agent is already running
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfwm4:884): xfwm4-WARNING **: 07:30:14.498: Unsupported GL renderer (llvmpipe (LLVM 14.0.6, 256 bits)).
+
+(wrapper-2.0:928): Gtk-WARNING **: 07:30:15.191: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+** (wrapper-2.0:938): WARNING **: 07:30:15.201: No outputs have backlight property
+
+(wrapper-2.0:937): Gtk-WARNING **: 07:30:15.226: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:938): Gtk-WARNING **: 07:30:15.319: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+
+(wrapper-2.0:934): Gtk-WARNING **: 07:30:15.368: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+** (xfce4-power-manager:1000): WARNING **: 07:30:15.419: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+
+** (xfce4-power-manager:1000): WARNING **: 07:30:15.419: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+Xfce power manager is not running
+
+(xfce4-power-manager:1000): GLib-GObject-WARNING **: 07:30:15.462: ../../../gobject/gsignal.c:2620: signal 'Changed' is invalid for instance '0x55b34fa38080' of type 'GDBusProxy'
+Another notification daemon is running, exiting
+Xfce Power Manager: Another power manager is already running
+Added OpenSC smartcard framework (0.22) to /home/kalihome1/.mozilla/firefox/mmbg4nff.default-esr/pkcs11.txt
+
+** (xiccd:1029): WARNING **: 07:30:15.894: EDID is empty
+
+(xfce4-power-manager:1000): xfce4-power-manager-WARNING **: 07:30:15.992: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:1000): WARNING **: 07:30:16.528: No outputs have backlight property
+
+(xfce4-power-manager:1000): xfce4-power-manager-WARNING **: 07:30:16.541: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+blueman-applet 07.30.16 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 07.30.16 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 07.30.16 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+
+** (xiccd:1029): WARNING **: 07:30:18.129: EDID is empty
+
+** (xiccd:1029): WARNING **: 07:30:18.136: EDID is empty
+
+(xfce4-power-manager:1000): Gtk-WARNING **: 07:31:10.450: A floating object was finalized. This means that someone
+called g_object_unref() on an object that had only a floating
+reference; the initial floating reference is not owned by anyone
+and must be removed with g_object_ref_sink().
+
+(wrapper-2.0:937): GLib-GObject-CRITICAL **: 07:31:10.469: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
